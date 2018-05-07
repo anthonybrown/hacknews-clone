@@ -9,7 +9,7 @@
 
 ## Installation
 
-* `git clone git@github.com:rwieruch/react-redux-hackernews.git`
+* `https://github.com/anthonybrown/hacknews-clone`
 * `cd react-redux-hackernews`
 * `npm install`
 * `npm start`
